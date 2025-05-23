@@ -1,4 +1,3 @@
-# CSVProductApplication
 # CSV Product Management Application
 
 A Spring Boot application to manage products using CSV files. Supports uploading CSVs to add products and provides APIs to list, update, and delete products.
